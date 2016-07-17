@@ -17,3 +17,9 @@ for being able to take notes easily
 and still have the functionality of
 a normal text editor. 		      
 				      
+
+
+========================================================================================
+Donate?
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2FUVGRWSZF8Y4
+========================================================================================
