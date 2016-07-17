@@ -1,0 +1,14 @@
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\NathansProgram.Form1.resources
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\NathansProgram.Settings.resources
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\NathansProgram.csproj.GenerateResource.Cache
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\NathansProgram.csprojResolveAssemblyReference.cache
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\bin\Release\USTE.exe.config
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\bin\Release\USTE.exe.manifest
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\bin\Release\USTE.application
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\bin\Release\USTE.exe
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\bin\Release\USTE.pdb
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\USTE.Properties.Resources.resources
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\USTE.exe.manifest
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\USTE.application
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\USTE.exe
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\NathansProgram\NathansProgram\obj\Release\USTE.pdb

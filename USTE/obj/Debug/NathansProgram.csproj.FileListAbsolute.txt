@@ -1,0 +1,10 @@
+c:\users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\bin\Debug\NathansProgram.exe.config
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\bin\Debug\NathansProgram.exe
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\bin\Debug\NathansProgram.pdb
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Debug\NathansProgram.csprojResolveAssemblyReference.cache
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Debug\NathansProgram.Form1.resources
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Debug\NathansProgram.Properties.Resources.resources
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Debug\NathansProgram.csproj.GenerateResource.Cache
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Debug\NathansProgram.exe
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Debug\NathansProgram.pdb
+C:\Users\nlaha\documents\visual studio 2015\Projects\NathansProgram\NathansProgram\obj\Debug\NathansProgram.Settings.resources
