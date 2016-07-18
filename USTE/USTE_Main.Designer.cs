@@ -38,6 +38,10 @@
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.fontDialog1 = new System.Windows.Forms.FontDialog();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            this.TextColor = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -59,7 +63,10 @@
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.Save,
             this.Open,
+            this.toolStripSeparator1,
             this.Settings,
+            this.TextColor,
+            this.toolStripSeparator2,
             this.Program});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
@@ -111,6 +118,30 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
+            // fontDialog1
+            // 
+            this.fontDialog1.ShowColor = true;
+            // 
+            // TextColor
+            // 
+            this.TextColor.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
+            this.TextColor.Image = ((System.Drawing.Image)(resources.GetObject("TextColor.Image")));
+            this.TextColor.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.TextColor.Name = "TextColor";
+            this.TextColor.Size = new System.Drawing.Size(23, 22);
+            this.TextColor.Text = "TextColor";
+            this.TextColor.Click += new System.EventHandler(this.TextColor_Click);
+            // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
+            // 
+            // toolStripSeparator2
+            // 
+            this.toolStripSeparator2.Name = "toolStripSeparator2";
+            this.toolStripSeparator2.Size = new System.Drawing.Size(6, 25);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -140,6 +171,10 @@
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
         private System.Windows.Forms.FontDialog fontDialog1;
         private System.Windows.Forms.ToolStripButton Program;
+        private System.Windows.Forms.ToolStripButton TextColor;
+        private System.Windows.Forms.ColorDialog colorDialog1;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
     }
 }
 

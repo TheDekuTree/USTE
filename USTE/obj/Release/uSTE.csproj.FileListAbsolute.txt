@@ -24,3 +24,4 @@ C:\Users\nlaha\Documents\Visual Studio 2015\Projects\USTE\USTE\obj\Release\Natha
 C:\Users\nlaha\Documents\Visual Studio 2015\Projects\USTE\USTE\obj\Release\USTE.csproj.GenerateResource.Cache
 C:\Users\nlaha\Documents\Visual Studio 2015\Projects\USTE\USTE\obj\Release\USTE.exe.manifest
 C:\Users\nlaha\Documents\Visual Studio 2015\Projects\USTE\USTE\obj\Release\USTE.application
+C:\Users\nlaha\Documents\Visual Studio 2015\Projects\USTE\USTE\obj\Release\USTE.csprojResolveAssemblyReference.cache

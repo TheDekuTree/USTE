@@ -30,12 +30,11 @@ namespace NathansProgram
             openFileDialog1.ShowDialog();
 
             
-                // Open the selected file to read.
                 System.IO.Stream fileStream = openFileDialog1.OpenFile();
 
                 using (System.IO.StreamReader reader = new System.IO.StreamReader(fileStream))
                 {
-                    // Read the first line from the file and write it the textbox.
+                 
                     TextBox.Text = reader.ReadToEnd();
                 }
                 fileStream.Close();
@@ -50,8 +49,7 @@ namespace NathansProgram
         private void Save_Click(object sender, EventArgs e)
         {
 
-            // Displays a SaveFileDialog so the user can save the Image
-            // assigned to Button2.
+  
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
             saveFileDialog1.Filter = "Text Files (.txt)|*.txt|All Files (*.*)|*.*";
             saveFileDialog1.Title = "Save";
@@ -86,13 +84,17 @@ namespace NathansProgram
             
 
 
-                TextBox.Font = fontDialog1.Font;
+                TextBox.SelectionFont = fontDialog1.Font;
 
 
-            
+      
 
 
         }
+
+
+
+   
 
         private void Program_Click(object sender, EventArgs e)
         {
@@ -101,9 +103,15 @@ namespace NathansProgram
 
         }
 
-       
+        private void TextColor_Click(object sender, EventArgs e)
+        {
 
-      
-       
+            colorDialog1.ShowDialog();
+
+
+            TextBox.SelectionColor = colorDialog1.Color;
+
+
+        }
     }
 }

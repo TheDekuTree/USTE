@@ -29,5 +29,10 @@ namespace NathansProgram
             System.Diagnostics.Process.Start("iexplore.exe", websiteName);
            
         }
+
+        private void Settings_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
